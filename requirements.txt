@@ -1,0 +1,15 @@
+The website link for the spotify millions dataset: https://www.kaggle.com/datasets/notshrirang/spotify-million-song-dataset
+
+Also, the following packages will be required
+
+For the .ipynb file:
+pandas
+spacy
+sklearn
+pickle
+
+For the .py file:
+streamlit
+base64
+pickle
+spotipy
